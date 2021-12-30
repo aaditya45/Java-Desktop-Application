@@ -1,0 +1,1 @@
+javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\thinking\machines\hr\dl\dao\*.java
